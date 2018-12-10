@@ -1,4 +1,4 @@
-package educa62.com.educa62.userinterface_and_navigation;
+package com.educa62.userinterface_and_navigation;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
